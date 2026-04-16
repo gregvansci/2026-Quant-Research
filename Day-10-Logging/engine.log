@@ -1,0 +1,6 @@
+2026-04-15 20:18:36 | INFO | started data stream
+2026-04-15 20:18:36 | INFO | starting data websocket connection
+2026-04-15 20:18:36 | INFO | connecting to wss://stream.data.alpaca.markets/v2/iex
+2026-04-15 20:18:36 | INFO | connected to wss://stream.data.alpaca.markets/v2/iex
+2026-04-15 20:18:37 | INFO | subscribed to trades: ['SPY'], corrections: ['SPY'], cancelErrors: ['SPY']
+2026-04-15 20:20:35 | ERROR | Task was destroyed but it is pending!
